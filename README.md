@@ -1,6 +1,6 @@
 <h2>Excel Helper</h2>
 
-
+<h4><b>Adicione as duas DLLs(EPPlus.dll e MGG.ExcelHelper.dll) ao seu projeto</b><h4
 
 <h2>1. Ler Excel</h2>
 É necessário ter a planilha com o cabeçalho em uma linha.
